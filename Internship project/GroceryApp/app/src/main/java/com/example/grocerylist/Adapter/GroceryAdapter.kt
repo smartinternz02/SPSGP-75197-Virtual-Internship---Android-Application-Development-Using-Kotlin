@@ -37,7 +37,7 @@ class GroceryAdapter(var list: List<GroceryItems>,val viewModel: GroceryViewMode
         if (position==list.size-1) {
             var totalCost = 0
             for (i in 0 until list.size) {
-                totalCost += list[i].itemPrice
+                totalCost = list[i].itemPrice+list[i].itemQuantity
             }
             holder.itemView.txtItemTotalCost.visibility = View.VISIBLE
             holder.itemView.txtTotalCostTitle.visibility=View.VISIBLE
