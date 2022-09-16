@@ -1,0 +1,71 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.grocerylist"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->D:\coding\Android\GroceryApp\GroceryApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\coding\Android\GroceryApp\GroceryApp\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->D:\coding\Android\GroceryApp\GroceryApp\app\src\main\AndroidManifest.xml:5:5-23:19
+12        android:allowBackup="true"
+12-->D:\coding\Android\GroceryApp\GroceryApp\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.0.2] C:\Users\sagar\.gradle\caches\transforms-2\files-2.1\5117329e99082dc3c1ab4baea83f834f\core-1.0.2\AndroidManifest.xml:22:18-86
+14        android:icon="@mipmap/ic_launcher"
+14-->D:\coding\Android\GroceryApp\GroceryApp\app\src\main\AndroidManifest.xml:7:9-43
+15        android:label="@string/app_name"
+15-->D:\coding\Android\GroceryApp\GroceryApp\app\src\main\AndroidManifest.xml:8:9-41
+16        android:roundIcon="@mipmap/ic_launcher_round"
+16-->D:\coding\Android\GroceryApp\GroceryApp\app\src\main\AndroidManifest.xml:9:9-54
+17        android:supportsRtl="true"
+17-->D:\coding\Android\GroceryApp\GroceryApp\app\src\main\AndroidManifest.xml:10:9-35
+18        android:theme="@style/AppTheme" >
+18-->D:\coding\Android\GroceryApp\GroceryApp\app\src\main\AndroidManifest.xml:11:9-40
+19        <activity android:name="com.example.grocerylist.UI.MainActivity" >
+19-->D:\coding\Android\GroceryApp\GroceryApp\app\src\main\AndroidManifest.xml:12:9-19:20
+19-->D:\coding\Android\GroceryApp\GroceryApp\app\src\main\AndroidManifest.xml:12:19-50
+20            android:screenOrientation="portrait"
+21            <intent-filter>
+21-->D:\coding\Android\GroceryApp\GroceryApp\app\src\main\AndroidManifest.xml:14:13-18:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->D:\coding\Android\GroceryApp\GroceryApp\app\src\main\AndroidManifest.xml:15:17-69
+22-->D:\coding\Android\GroceryApp\GroceryApp\app\src\main\AndroidManifest.xml:15:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->D:\coding\Android\GroceryApp\GroceryApp\app\src\main\AndroidManifest.xml:17:17-77
+24-->D:\coding\Android\GroceryApp\GroceryApp\app\src\main\AndroidManifest.xml:17:27-74
+25            </intent-filter>
+26        </activity>
+27
+28        <meta-data
+28-->D:\coding\Android\GroceryApp\GroceryApp\app\src\main\AndroidManifest.xml:20:9-22:57
+29            android:name="preloaded_fonts"
+29-->D:\coding\Android\GroceryApp\GroceryApp\app\src\main\AndroidManifest.xml:21:13-43
+30            android:resource="@array/preloaded_fonts" />
+30-->D:\coding\Android\GroceryApp\GroceryApp\app\src\main\AndroidManifest.xml:22:13-54
+31
+32        <service
+32-->[androidx.room:room-runtime:2.2.1] C:\Users\sagar\.gradle\caches\transforms-2\files-2.1\a820395224925e488df1491d108f2f8d\room-runtime-2.2.1\AndroidManifest.xml:25:9-27:40
+33            android:name="androidx.room.MultiInstanceInvalidationService"
+33-->[androidx.room:room-runtime:2.2.1] C:\Users\sagar\.gradle\caches\transforms-2\files-2.1\a820395224925e488df1491d108f2f8d\room-runtime-2.2.1\AndroidManifest.xml:26:13-74
+34            android:exported="false" />
+34-->[androidx.room:room-runtime:2.2.1] C:\Users\sagar\.gradle\caches\transforms-2\files-2.1\a820395224925e488df1491d108f2f8d\room-runtime-2.2.1\AndroidManifest.xml:27:13-37
+35
+36        <provider
+36-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\sagar\.gradle\caches\transforms-2\files-2.1\142cb48e0e569f0db36087e50658f58c\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
+37            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+37-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\sagar\.gradle\caches\transforms-2\files-2.1\142cb48e0e569f0db36087e50658f58c\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79
+38            android:authorities="com.example.grocerylist.lifecycle-process"
+38-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\sagar\.gradle\caches\transforms-2\files-2.1\142cb48e0e569f0db36087e50658f58c\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
+39            android:exported="false"
+39-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\sagar\.gradle\caches\transforms-2\files-2.1\142cb48e0e569f0db36087e50658f58c\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
+40            android:multiprocess="true" />
+40-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\sagar\.gradle\caches\transforms-2\files-2.1\142cb48e0e569f0db36087e50658f58c\jetified-lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
+41    </application>
+42
+43</manifest>

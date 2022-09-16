@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_action_delete.xml.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_action_delete.xml"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_action_add.xml.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_action_add.xml"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_rectangle.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\drawable-mdpi\\rectangle.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\generated\\res\\pngs\\release\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_action_delete.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_action_add.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_adapter2.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\drawable-mdpi\\adapter2.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_launcher_foreground.xml.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_action_add.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\drawable-mdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_action_add.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\drawable-hdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_logo.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\font_rokkitt.xml.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\font\\rokkitt.xml"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\layout_grocerydialog.xml.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\layout\\grocerydialog.xml"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_action_delete.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\drawable-mdpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_adapter1.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\drawable-mdpi\\adapter1.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\layout_groceryadapter.xml.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\layout\\groceryadapter.xml"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_action_add.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_button.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\drawable-mdpi\\button.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_action_add.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\font_rouge_script.xml.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\font\\rouge_script.xml"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_action_delete.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_action_delete.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_dialogbackground.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\drawable-mdpi\\dialogbackground.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_title.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\drawable-mdpi\\title.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_action_delete.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\generated\\res\\pngs\\release\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi_ic_action_add.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\generated\\res\\pngs\\release\\drawable-ldpi\\ic_action_add.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_action_delete.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\drawable-hdpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\coding\\Android\\GroceryApp\\GroceryApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]
