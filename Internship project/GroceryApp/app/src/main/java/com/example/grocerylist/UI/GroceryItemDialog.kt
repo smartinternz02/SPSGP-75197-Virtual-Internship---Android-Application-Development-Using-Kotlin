@@ -19,16 +19,19 @@ class GroceryItemDialog(context: Context,var dialogListener: DialogListener):App
         tvSave.setOnClickListener {
 
             val name = etItemName.text.toString()
-            val quantity = etItemQuantity.text.toString().toInt()
-            val price = etItemPrice.text.toString().toInt()
+            val quantity = etItemQuantity.text.toString()
+            val price = etItemPrice.text.toString()
 
-            if (name.isEmpty()){
-                Toast.makeText(context,"Please Enter Item Name",Toast.LENGTH_SHORT).show()
+            if (name.isEmpty() || quantity.isEmpty() || price.isEmpty()){
+                Toast.makeText(context,"Please enter all the details...",Toast.LENGTH_SHORT).show()
             }
-
-            val item = GroceryItems(name , quantity , price)
-            dialogListener.onAddButtonClicked(item)
-            dismiss()
+            else
+            {
+                val item = GroceryItems(name , quantity.toInt() , price.toInt())
+                dialogListener.onAddButtonClicked(item)
+                Toast.makeText(context,"Item inserted...",Toast.LENGTH_SHORT).show()
+                dismiss()
+            }
 
         }
 
