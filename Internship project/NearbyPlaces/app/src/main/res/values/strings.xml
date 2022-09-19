@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Nearby Places</string>
+    <string name="google_maps_key">AIzaSyDMDO6MWpLxSxLNzRF_2PeAHMbv9w4bZDo</string>
+    <string-array name="find_a_location">
+        <item>--Find a place--</item>
+        <item>Temple</item>
+        <item>Restaurant</item>
+        <item>ATM</item>
+        <item>Bank</item>
+        <item>Fire Office</item>
+        <item>Hospital</item>
+        <item>Laundry</item>
+        <item>Cinema</item>
+        <item>Post Office</item>
+        <item>Police Station</item>
+        <item>School</item>
+    </string-array>
+</resources>
